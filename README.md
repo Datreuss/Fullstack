@@ -92,7 +92,7 @@ con dicho por mi compañero benjamin yo fui encargardo de hacer el CSS para que 
 
 Con lo investigado y el diseño hecho por nuestro compañero Michael, podemos dar ya la primera versión de nuestra pagina SALUDPLUS 0.1.0 este incluye vista de administrador, gestion de inventario, carrito de compras logo y todo lo que se pide en la rubrica estamos a nada ya de sacarlo al publico. Falta pulir los ultimos detalles y estamos listos para el release de la 1.0.
 
-# Benjamin Reyes, Felipe Fredes, Michael Santibañez
+# Benjamin Reyes, Felipe Fredes, Michael Santibañez 13/09/2026
 
 # UPDATE FINAL 1.0
 
