@@ -80,6 +80,12 @@ Para la primera parte se creo una base en Balsamiq para poder recrear una pagina
 
 Con la investigación de otras paginas de farmacias se me ocurrió la idea de hacer un "inicio de sesión" que solo sea un boton que al presionarlo te mande una vista de cada rol, dependiendo la opcion seleccionada te manda la vista de administrador, bodega o usuario, con eso en mente recree una interfaz ya utilizada anteriormente para poder recrear un "inicio de sesion" sin BD.
 
+
+# Michael Santibañez 12/09/2026
+
+con dicho por mi compañero benjamin yo fui encargardo de hacer el CSS para que la paguina web se vea mejor a la vista del usuario y que no sea tas tosaca y insipida y con ello lo que llegue a hacer fue poner el color de fondo, el como se veria los botone y casi todo lo que se tratara de una vista mas agradable para que el usuario pueda guiarse de una forma mas eficas dentro del sitio web
+
+
 # Felipe Fredes 12/09/2026
 
 # UPDATE 0.1.0
